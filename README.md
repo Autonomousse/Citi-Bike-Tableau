@@ -4,7 +4,8 @@
 
 The data used for this analysis consists of the months April, May, and June for the years 2019 and 2020. Since Tableau Public only allows for 15 million lines worth of data on their free version, this is the limited data set we can use to perform this analysis. 
 
- * The data can be found at the following link: https://www.citibikenyc.com/system-data
+ * The data can be found at the following link: [https://www.citibikenyc.com/system-data](https://www.citibikenyc.com/system-data)
+ * Link to Tableau Public for visualizations: [https://public.tableau.com/profile/autonomousse#!/](https://public.tableau.com/profile/autonomousse#!/)
 
 ## Analysis: 
 
