@@ -49,7 +49,7 @@ The first dashboard demonstrates the total trip duration with a map that shows t
 
 The second dashboard provides a view of the top four age groups by gender and customer or subscriber categories. It is accompanied by a view of the month, year, and loss or gain in customer or subscriber count. It can illustrate areas to focus on for gaining more subscribers or areas that have been hit the hardest and may require future planning in order to regain prior upward trends.
 
-  !10](images/10.png)
+  ![10](images/10.png)
 
 ## Map
 
